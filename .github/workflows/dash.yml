@@ -22,6 +22,6 @@ jobs:
           pip install detect-secrets
           detect-secrets scan --all-files | grep -q '"results": {}' \
             && echo "✅ No secrets detected" \
-            || (echo "💔 Secrets detected — failing build" && exit 1)
+            || (echo "🛑 Secrets detected — failing build" && exit 1)
       - name: Dash validated stamp
         run: echo "dash_validated=true" >> $GITHUB_OUTPUT
