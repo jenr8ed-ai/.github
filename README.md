@@ -1,0 +1,2 @@
+# .github
+JAIOS Org Governance
