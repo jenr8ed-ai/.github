@@ -44,7 +44,7 @@ Migrate legacy or ad-hoc data sources into the canonical FSAD structure under `r
 
 5. **Verification & SOT Update**
    - Run full publishing dry-runs.
-   - Update `docs/governance/JAIOS_SOT.md` and fsad-architecture.md with final layout.
+   - Update [JAIOS_SOT.md](JAIOS_SOT.md) and [fsad-architecture.md](fsad-architecture.md) with final layout.
    - Close migration issues.
 
 ## Risks & Mitigations
