@@ -34,7 +34,7 @@ State changes are explicitly logged across four key database sectors:
   ---
   ```
 
-See `dash-governance.md` for the enforcement details in publishing scripts.
+See [dash-governance.md](dash-governance.md) for the enforcement details in publishing scripts.
 
 ## 3. Zero-Token / Zero-Credential Mandate
 
