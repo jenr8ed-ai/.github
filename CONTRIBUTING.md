@@ -29,7 +29,7 @@ This organization uses **FSAD** (File-System-as-Database) for all state.
 
 ## Development Process
 
-See the agent library (orchestrator + specialists) and `docs/governance/JAIOS_SOT.md` for how work is structured.
+See the agent library (orchestrator + specialists) and [JAIOS_SOT.md](https://github.com/JenR8ed/.github/blob/main/docs/governance/JAIOS_SOT.md) for how work is structured.
 
 - Reference relevant SOT sections in commits and PRs.
 - Use the provided issue and PR templates.
