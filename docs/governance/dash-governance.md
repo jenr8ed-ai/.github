@@ -53,4 +53,4 @@ Each file declares its `domain:` to enable targeted scanning.
 - Agent prompts must surface the requirement to set proper frontmatter.
 - Violations are treated as infrastructure / governance bugs (see issue template).
 
-See also fsad-architecture.md and the SOT notebook in the main workspace.
+See also [fsad-architecture.md](fsad-architecture.md) and the SOT notebook in the main workspace.
