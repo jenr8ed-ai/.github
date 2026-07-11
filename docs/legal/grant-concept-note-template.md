@@ -45,7 +45,7 @@ Primary: Jennifer McKinley
 
 ## Attachments
 
-- Link to relevant section of docs/governance/JAIOS_SOT.md
+- Link to relevant section of [JAIOS_SOT.md](../governance/JAIOS_SOT.md)
 - Sample FSAD entry structure
 
 ---
