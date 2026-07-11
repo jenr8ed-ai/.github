@@ -31,4 +31,4 @@ Responsible disclosures will be acknowledged (unless anonymity requested).
 
 ## Related
 
-See also `docs/governance/dash-governance.md` and the zero-token rules in the SOT.
+See also [dash-governance.md](https://github.com/JenR8ed/.github/blob/main/docs/governance/dash-governance.md) and the zero-token rules in the SOT.
