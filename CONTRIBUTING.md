@@ -6,9 +6,9 @@ Thank you for your interest in contributing to JenR8ed projects and the JAIOS ec
 
 All contributions are governed by the documents in `docs/legal/` and `docs/governance/`:
 
-- [Privacy Policy](docs/legal/privacy-policy.md)
-- [Terms of Service](docs/legal/terms-of-service.md)
-- [Jurisdiction Addendum](docs/legal/jurisdiction-addendum.md)
+- [Privacy Policy](https://github.com/JenR8ed/.github/blob/main/docs/legal/privacy-policy.md)
+- [Terms of Service](https://github.com/JenR8ed/.github/blob/main/docs/legal/terms-of-service.md)
+- [Jurisdiction Addendum](https://github.com/JenR8ed/.github/blob/main/docs/legal/jurisdiction-addendum.md)
 - Client Services Agreement and Grant templates
 
 ## FSAD Governance
