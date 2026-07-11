@@ -16,6 +16,6 @@ It provides generators that produce adapters per AI platform (ChatGPT Projects, 
 
 This `.github` repository holds org-wide governance, templates, and legal docs that apply across JenR8ed projects and the future JAIOS ecosystem.
 
-See `docs/governance/JAIOS_SOT.md` and `docs/governance/fsad-architecture.md` for the full single source of truth.
+See [JAIOS_SOT.md](../docs/governance/JAIOS_SOT.md) and [fsad-architecture.md](../docs/governance/fsad-architecture.md) for the full single source of truth.
 
 Maintained by Jennifer McKinley (@JenR8ed).
