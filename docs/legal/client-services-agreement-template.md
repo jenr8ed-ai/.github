@@ -44,4 +44,4 @@ Provider: ______________________________ Date: ________
 Client: ______________________________ Date: ________
 
 ---
-*Reference docs/governance/ and CONTRIBUTING.md for standard practices.*
+*Reference [governance docs](../governance/) and [CONTRIBUTING.md](../../CONTRIBUTING.md) for standard practices.*
