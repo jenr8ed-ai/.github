@@ -29,7 +29,7 @@ These terms govern all public and shared materials under the JenR8ed GitHub orga
 
 ## Content Governance
 
-All publishable content must satisfy the FSAD governance process (dash_validated + status) before automation or public release. See CONTRIBUTING.md and docs/governance/.
+All publishable content must satisfy the FSAD governance process (dash_validated + status) before automation or public release. See [CONTRIBUTING.md](../../CONTRIBUTING.md) and [governance docs](../governance/).
 
 ## Disclaimer
 
