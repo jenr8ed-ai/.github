@@ -30,7 +30,7 @@ This document is the living root reference for the JenR8ed AI Operating System (
 
 ## 3. Zero-Token FSAD (03)
 
-See dedicated `fsad-architecture.md` and `dash-governance.md`.
+See dedicated [fsad-architecture.md](fsad-architecture.md) and [dash-governance.md](dash-governance.md).
 
 Core sectors under `relations/`:
 - engineering/
