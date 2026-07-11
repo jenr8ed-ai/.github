@@ -6,7 +6,7 @@
 
 - 
 
-## Verification (per agents/testing.md style)
+## Verification (per `agents/testing.md` style)
 
 - [ ] Manual QA checklist completed for touched areas (slugs, editor, FSAD frontmatter, syncs, etc.)
 - [ ] No secrets or credentials added (zero-token policy)
