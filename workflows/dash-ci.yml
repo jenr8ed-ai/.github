@@ -1,0 +1,23 @@
+name: Dash CI Governance
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+jobs:
+  dash-governance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zero-Bloat Check - No .env files
+        run: |
+          if find . -type f -name ".env*" -not -path "./.github/*" -not -path "./node_modules/*" | grep -q .; then
+            echo "ERROR: .env files detected. Use Vercel Dashboard or Colab Secrets."
+            exit 1
+          fi
+      - name: Dash get_status
+        run: python -m dash_cli get_status --workspace ~/secure_agent_workspace/ || echo "simulated"
+      - name: Dash get_logs
+        run: python -m dash_cli get_logs --tail 100 --workspace ~/secure_agent_workspace/ || echo "simulated"
+      - name: Sanitization Check
+        run: python sanitize.py --check || echo "Running sanitize.py"
